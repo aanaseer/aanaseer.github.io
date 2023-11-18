@@ -13,3 +13,11 @@ theme = 'paper'
     linkedin = 'aanaseer'             # linkedin.com/in/YOUR_LINKEDIN_ID
 
     math = true   
+
+[menu]
+
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 6
