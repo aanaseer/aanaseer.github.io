@@ -1,4 +1,15 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ahmed Ammar Naseer'
 theme = 'paper'
+
+[params]
+    # color style
+    color = 'linen'                           # linen, wheat, gray, light
+
+    # header social icons
+    twitter = '4mmm4r'               # twitter.com/YOUR_TWITTER_ID
+    github = 'aanaseer'                 # github.com/YOUR_GITHUB_ID
+    linkedin = 'aanaseer'             # linkedin.com/in/YOUR_LINKEDIN_ID
+
+    math = true   
